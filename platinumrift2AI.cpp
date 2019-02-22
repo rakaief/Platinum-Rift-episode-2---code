@@ -1,3 +1,6 @@
+// Code by:-Rakai Erlans F. 16418126
+//         -Yeremia Imanuel S. 16418198
+//         -Fery Ananda 16318194
 #include <iostream>
 #include <string>
 #include <vector>
@@ -57,7 +60,7 @@ int main()
         // first line for movement commands, second line no longer used (see the protocol in the statement for details)
         for (int i = 0; i < zoneCount; ++i) {
             if (((myId == 0 && podsP0[i] != 0) || (myId == 1 && podsP1[i] != 0))) {
-                int next = adjacentZone[i][rand() % 5];
+                int next = adjacentZone[i][rand() % 5]; //Angka random dari 6 arah kemungkinan pergerakan pada heksagon
                 if (myId == 0) cout << podsP0[i]-(podsP0[i]/2);
                 else cout << podsP1[i]-podsP1[i]/2;
                 cout << ' ' << i << ' ' << next << ' ';
