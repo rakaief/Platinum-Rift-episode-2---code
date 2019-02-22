@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <queue>
 #include <cstdlib>
-
+// Menggunakan C Standard General Utilities Library.
 using namespace std;
  
 /**
