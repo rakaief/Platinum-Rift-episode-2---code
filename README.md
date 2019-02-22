@@ -7,4 +7,4 @@ oleh :
 link persoalan https://www.codingame.com/ide/puzzle/platinum-rift-episode-2
 
 # Strategi
-Dengan menyebarkan setengah dari grup POD ke zona random terdekat
+Dengan menyebarkan setengah dari grup POD yang ada di suatu zona ke zona random terdekat
