@@ -5,6 +5,7 @@ oleh :
 -Fery Nanda 16318194
 
 link persoalan https://www.codingame.com/ide/puzzle/platinum-rift-episode-2
+Kode yang digunakan : C++
 
 # Strategi
 Dengan menyebarkan setengah dari grup POD yang ada di suatu zona ke zona random terdekat
